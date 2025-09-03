@@ -129,6 +129,10 @@ body {
     margin-bottom: 10px;
     font-size: 0.8rem;
 }
+.technologies span.highlight {
+    background-color: var(--primary-color);
+    color: var(--background-color);
+}
 
 /* Social Links Section */
 .social-links {
